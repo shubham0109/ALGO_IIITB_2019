@@ -1,4 +1,5 @@
 // O(NLOGN)
+// Inversion Pairs: i < j && a[i] > a[j]
 
 # include <iostream>
 # include <ctime>
